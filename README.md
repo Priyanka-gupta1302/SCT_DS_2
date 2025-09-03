@@ -43,7 +43,9 @@ Visualize findings using charts and graphs.
 # Key Insights (Titanic Dataset Example)
 
 Survival rates by gender, class, and age group.
+
 Impact of family size and fare price on survival.
+
 Correlation between categorical and numerical variables.
 
 
