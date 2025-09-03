@@ -49,4 +49,25 @@ Impact of family size and fare price on survival.
 Correlation between categorical and numerical variables.
 
 
+# Final Conclusion
+
+In this task, I performed data cleaning and exploratory data analysis (EDA) on the Titanic dataset. The process involved handling missing values, removing inconsistencies, and preparing the dataset for analysis.
+
+Through EDA, I explored the relationships between variables and identified key patterns:
+
+Gender: Female passengers had a significantly higher survival rate compared to males.
+
+Class: Passengers in 1st class had a much better chance of survival than those in 2nd or 3rd class.
+
+Age: Children had a higher probability of survival compared to adults.
+
+Fare: Higher ticket fares were generally associated with better survival chances.
+
+Family size: Survival probability was higher for passengers traveling with small families compared to those traveling alone or with large families.
+
+
+# Key Takeaway
+
+The analysis highlights that social status (class), gender, and age played a major role in survival chances during the Titanic disaster. This task helped in strengthening concepts of data preprocessing, visualization, and pattern identification, which are essential skills in data science projects.
+
 ## This task provides hands-on practice in data preprocessing, exploratory analysis, and data visualization – essential skills for data science projects.
