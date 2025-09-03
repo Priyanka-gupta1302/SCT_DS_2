@@ -38,3 +38,12 @@ Visualize findings using charts and graphs.
 1. Number of Visualizations Created – Charts/plots generated (bar, histogram, pie, boxplot, heatmap).
 2. Correlation Heatmap – Strength of relationships between variables.
 3. Key Patterns Identified – Number of meaningful insights discovered.
+
+# Key Insights (Titanic Dataset Example)
+
+Survival rates by gender, class, and age group.
+Impact of family size and fare price on survival.
+Correlation between categorical and numerical variables.
+
+
+## This task provides hands-on practice in data preprocessing, exploratory analysis, and data visualization – essential skills for data science projects.
