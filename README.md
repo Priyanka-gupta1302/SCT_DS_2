@@ -15,6 +15,9 @@ Visualize findings using charts and graphs.
 # DATASET USED
 - <a href="https://github.com/Priyanka-gupta1302/SCT_DS_2/blob/main/TASK%202%20DATA%20SCIENCE%20INTERN.xlsx">dataset</a>
 
+# DASHBOARD INTERACTION
+
+
 # KPIs for Task 02: Data Cleaning & EDA
 
 ##  Data Cleaning KPIs
